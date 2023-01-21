@@ -2,7 +2,7 @@
 
 With [Open Props](https://open-props.style) and no TypeScript.
 
-Originally use [pnpm](pnpm.io/). Change to your favorite package manager if needed.
+Originally use [pnpm](https://pnpm.io/). Change to your favorite package manager if needed.
 
 ## Commands
 
